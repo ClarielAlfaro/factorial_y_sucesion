@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sucesion_de_Fibonacci/1.0.0": {
+        "runtime": {
+          "sucesion_de_Fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sucesion_de_Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\bin\Debug\net6.0\sucesion_de_Fibonacci.exe
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\bin\Debug\net6.0\sucesion_de_Fibonacci.deps.json
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\bin\Debug\net6.0\sucesion_de_Fibonacci.runtimeconfig.json
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\bin\Debug\net6.0\sucesion_de_Fibonacci.dll
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\bin\Debug\net6.0\sucesion_de_Fibonacci.pdb
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.AssemblyInfo.cs
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.dll
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\refint\sucesion_de_Fibonacci.dll
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.pdb
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\sucesion_de_Fibonacci.genruntimeconfig.cache
+C:\Users\clari\source\repos\sucesion_de_Fibonacci\sucesion_de_Fibonacci\obj\Debug\net6.0\ref\sucesion_de_Fibonacci.dll
